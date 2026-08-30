@@ -19,6 +19,7 @@ A curated list of resources for deploying and managing self-hosted AI agents.
 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 160k+ | Autonomous GPT-4 agent |
 | [LangChain](https://github.com/langchain-ai/langchain) | 80k+ | LLM application framework |
 | [CrewAI](https://github.com/joaomdmoura/crewAI) | 15k+ | Multi-agent orchestration |
+| [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) | — | Self-hosted agent runtime and MCP bridge with persistent sessions, approval-gated tools, sandbox backends, credentials, and audit/replay |
 
 ## Deployment Guides
 
