@@ -46,6 +46,10 @@ A curated list of resources for deploying and managing self-hosted AI agents.
 | Mac Mini | $500 one-time | Lowest | 24/7 local agent |
 | Cloud Functions | Pay-per-use | Variable | Burst workloads |
 
+## Skills & Integrations
+
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) — Local CLI and stdio MCP payment tools for agents on Apple Silicon macOS with Node.js 24; install with `brew install nuanu-ai/tap/apn`, with spending subject to owner limits and approval and network/provider fees separate.
+
 ## Security
 
 - [Security Hardening Guide](https://agentplaybook.io) — Production-ready security
