@@ -46,6 +46,10 @@ A curated list of resources for deploying and managing self-hosted AI agents.
 | Mac Mini | $500 one-time | Lowest | 24/7 local agent |
 | Cloud Functions | Pay-per-use | Variable | Burst workloads |
 
+## Skills & Integrations
+
+- [agent-qa](https://vostride.com) — Local app-testing agent with persistent memory, validated self-improvement, and reviewable run evidence; connect it to coding agents with [MCP setup](https://vostride.com/docs/agent-qa/mcp).
+
 ## Security
 
 - [Security Hardening Guide](https://agentplaybook.io) — Production-ready security
